@@ -299,6 +299,7 @@ header .mobile {
   font-weight: bold;
   line-height: 1.3;
   color: white;
+  margin-top: 64px;
 }
 
 #filters-section .content h3 {
